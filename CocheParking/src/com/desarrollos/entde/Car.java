@@ -2,7 +2,7 @@ package com.desarrollos.entde;
 
 /**
  * Class that models objects of type "car"
- * 
+ * @author Ruben Lopez
  * @Java MOOC team, UC3M
  * @2.0
  */
